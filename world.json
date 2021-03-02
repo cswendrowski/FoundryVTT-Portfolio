@@ -1,0 +1,42 @@
+{
+  "name": "cswendrowski",
+  "title": "cswendrowski Portfolio",
+  "description": "<p>An interactive exploration of the things Cody Swendrowski has developed for Foundry Virtual Tabletop</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [ "./cswendrowski.js" ],
+  "styles": [],
+  "dependencies": [
+    {
+      "name": "dlopen",
+      "type": "module",
+      "manifest": "https://raw.githubusercontent.com/ForgeVTT/fvtt-module-dlopen/master/module.json"
+    },
+    {
+      "name": "vueport",
+      "type": "module",
+      "manifest": "https://raw.githubusercontent.com/ForgeVTT/fvtt-module-vueport/master/module.json"
+    }
+  ],
+  "packs": [],
+  "languages": [],
+  "authors": [],
+  "keywords": [],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "background": "worlds/cswendrowski/PowerPoint%20Template.jpg",
+  "system": "archmage",
+  "coreVersion": "0.7.9",
+  "systemVersion": "1.8.1",
+  "nextSession": "1970-01-01T00:00:00.000Z",
+  "availability": 0,
+  "unavailable": false
+}

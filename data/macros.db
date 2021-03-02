@@ -1,0 +1,1 @@
+{"name":"Global Chatter","permission":{"default":0,"ANHn7Sw4w0uRlS0W":3,"pw2V8xvRLO8dfuct":3},"type":"script","folder":null,"sort":100001,"flags":{},"scope":"global","command":"game.npcChatter.globalChatter()","author":"pw2V8xvRLO8dfuct","img":"icons/svg/dice-target.svg","actorIds":[],"_id":"FP3FcBqwCQVGKWDe"}
