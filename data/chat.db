@@ -11,10 +11,13 @@
 {"flags":{},"type":5,"user":"pw2V8xvRLO8dfuct","timestamp":1614640967539,"content":"15","speaker":{},"whisper":[],"roll":"{\"class\":\"Roll\",\"dice\":[],\"formula\":\"d20\",\"terms\":[{\"class\":\"Die\",\"number\":1,\"faces\":20,\"modifiers\":[],\"options\":{},\"results\":[{\"result\":15,\"active\":true}]}],\"results\":[15],\"total\":15}","sound":"sounds/dice.wav","_id":"EeibQ01K5Tcb6Yjx"}
 {"flags":{},"type":5,"user":"pw2V8xvRLO8dfuct","timestamp":1614641357507,"content":"17","speaker":{},"whisper":[],"roll":"{\"class\":\"Roll\",\"dice\":[],\"formula\":\"d20\",\"terms\":[{\"class\":\"Die\",\"number\":1,\"faces\":20,\"modifiers\":[],\"options\":{},\"results\":[{\"result\":17,\"active\":true}]}],\"results\":[17],\"total\":17}","sound":"sounds/dice.wav","_id":"FHQAOSfSEkO8T6Fp"}
 {"flags":{},"type":2,"user":"pw2V8xvRLO8dfuct","timestamp":1614639554461,"content":"Nice! Next up, ViNo - Visual Novel for Foundry. ViNo was the module that finally convinced me to setup a Patreon!","speaker":{"scene":"nw3oxK8E7RZf3QFo","actor":"MIgHay8oOimuWKds","token":"ZghVjpRXZJmJxo05","alias":"Cody Swendrowski"},"whisper":[],"_id":"G7k4u3a3Y02ri2yI"}
+{"flags":{},"type":2,"user":"pw2V8xvRLO8dfuct","timestamp":1614643459924,"content":"It brings actors - and their often wonderful art - into prime real estate, and features tons of reading speed configuration.","speaker":{"scene":"nw3oxK8E7RZf3QFo","actor":"MIgHay8oOimuWKds","token":"ZghVjpRXZJmJxo05","alias":"Cody Swendrowski"},"whisper":[],"_id":"GWXs61lZZXDi6klu"}
 {"flags":{},"type":5,"user":"pw2V8xvRLO8dfuct","timestamp":1614640039361,"content":"2","speaker":{},"whisper":[],"roll":"{\"class\":\"Roll\",\"dice\":[],\"formula\":\"d20\",\"terms\":[{\"class\":\"Die\",\"number\":1,\"faces\":20,\"modifiers\":[],\"options\":{},\"results\":[{\"result\":2,\"active\":true}]}],\"results\":[2],\"total\":2}","sound":"sounds/dice.wav","_id":"H4n9Or6CAypYBRYI"}
 {"flags":{},"type":5,"user":"pw2V8xvRLO8dfuct","timestamp":1614640670452,"content":"19","speaker":{},"whisper":[],"roll":"{\"class\":\"Roll\",\"dice\":[],\"formula\":\"d20\",\"terms\":[{\"class\":\"Die\",\"number\":1,\"faces\":20,\"modifiers\":[],\"options\":{},\"results\":[{\"result\":19,\"active\":true}]}],\"results\":[19],\"total\":19}","sound":"sounds/dice.wav","_id":"KMUoNC70lD3J8HWx"}
 {"flags":{},"type":5,"user":"pw2V8xvRLO8dfuct","timestamp":1614641123216,"content":"13","speaker":{},"whisper":[],"roll":"{\"class\":\"Roll\",\"dice\":[],\"formula\":\"d20\",\"terms\":[{\"class\":\"Die\",\"number\":1,\"faces\":20,\"modifiers\":[],\"options\":{},\"results\":[{\"result\":13,\"active\":true}]}],\"results\":[13],\"total\":13}","sound":"sounds/dice.wav","_id":"LyrLW577l6BT5E11"}
 {"flags":{},"type":2,"user":"pw2V8xvRLO8dfuct","timestamp":1614639564489,"content":"It brings actors - and their often wonderful art - into prime real estate, and features tons of reading speed configuration.","speaker":{"scene":"nw3oxK8E7RZf3QFo","actor":"MIgHay8oOimuWKds","token":"ZghVjpRXZJmJxo05","alias":"Cody Swendrowski"},"whisper":[],"_id":"Nxazte1VnuqxVicj"}
+{"flags":{},"type":2,"user":"pw2V8xvRLO8dfuct","timestamp":1614643469938,"content":"As the module with the longest development schedule, it's my cleanest code (but still, ultimately, night-programming quality). Check it out here: <a class=\"hyperlink\" href=\"https://github.com/cswendrowski/FoundryVTT-ViNo/tree/master/scripts\" target=\"_blank\">https://github.com/cswendrowski/FoundryVTT-ViNo/tree/master/scripts</a>","speaker":{"scene":"nw3oxK8E7RZf3QFo","actor":"MIgHay8oOimuWKds","token":"ZghVjpRXZJmJxo05","alias":"Cody Swendrowski"},"whisper":[],"_id":"OQKtTxe9FP2O0gaL"}
+{"flags":{},"type":5,"user":"pw2V8xvRLO8dfuct","timestamp":1614643516919,"content":"8","speaker":{},"whisper":[],"roll":"{\"class\":\"Roll\",\"dice\":[],\"formula\":\"d20\",\"terms\":[{\"class\":\"Die\",\"number\":1,\"faces\":20,\"modifiers\":[],\"options\":{},\"results\":[{\"result\":8,\"active\":true}]}],\"results\":[8],\"total\":8}","sound":"sounds/dice.wav","_id":"PDBBAFN1VNnB7ij0"}
 {"flags":{},"type":2,"user":"pw2V8xvRLO8dfuct","timestamp":1614638864576,"content":"As the module with the longest development schedule, it's my cleanest code (but still, ultimately, night-programming quality). Check it out here: <a class=\"hyperlink\" href=\"https://github.com/cswendrowski/FoundryVTT-ViNo/tree/master/scripts\" target=\"_blank\">https://github.com/cswendrowski/FoundryVTT-ViNo/tree/master/scripts</a>","speaker":{"scene":"nw3oxK8E7RZf3QFo","actor":"MIgHay8oOimuWKds","token":"ZghVjpRXZJmJxo05","alias":"Cody Swendrowski"},"whisper":[],"_id":"PmnQ2uC4erlWfybc"}
 {"flags":{},"type":5,"user":"pw2V8xvRLO8dfuct","timestamp":1614640869491,"content":"14","speaker":{},"whisper":[],"roll":"{\"class\":\"Roll\",\"dice\":[],\"formula\":\"d20\",\"terms\":[{\"class\":\"Die\",\"number\":1,\"faces\":20,\"modifiers\":[],\"options\":{},\"results\":[{\"result\":14,\"active\":true}]}],\"results\":[14],\"total\":14}","sound":"sounds/dice.wav","_id":"W0B70Dk0xgDeLbYC"}
 {"flags":{},"type":2,"user":"pw2V8xvRLO8dfuct","timestamp":1614639586523,"content":"ViNo is one of many modules that benefits from the next module in the tour - Tabbed Chatlog","speaker":{"scene":"nw3oxK8E7RZf3QFo","actor":"MIgHay8oOimuWKds","token":"ZghVjpRXZJmJxo05","alias":"Cody Swendrowski"},"whisper":[],"_id":"Y2q56kbb7glE1awH"}
@@ -30,12 +33,52 @@
 {"flags":{},"type":2,"user":"pw2V8xvRLO8dfuct","timestamp":1614640004064,"content":"As the module with the longest development schedule, it's my cleanest code (but still, ultimately, night-programming quality). Check it out here: <a class=\"hyperlink\" href=\"https://github.com/cswendrowski/FoundryVTT-ViNo/tree/master/scripts\" target=\"_blank\">https://github.com/cswendrowski/FoundryVTT-ViNo/tree/master/scripts</a>","speaker":{"scene":"nw3oxK8E7RZf3QFo","actor":"MIgHay8oOimuWKds","token":"ZghVjpRXZJmJxo05","alias":"Cody Swendrowski"},"whisper":[],"_id":"kMw7anAkfkIMmlmo"}
 {"flags":{},"type":2,"user":"pw2V8xvRLO8dfuct","timestamp":1614638856539,"content":"Nice! Next up, ViNo - Visual Novel for Foundry. ViNo was the module that finally convinced me to setup a Patreon!","speaker":{"scene":"nw3oxK8E7RZf3QFo","actor":"MIgHay8oOimuWKds","token":"ZghVjpRXZJmJxo05","alias":"Cody Swendrowski"},"whisper":[],"_id":"n3dDbScIGgRAa5tv"}
 {"flags":{},"type":2,"user":"pw2V8xvRLO8dfuct","timestamp":1614639034850,"content":"ViNo is one of many modules that benefits from the next module in the tour - Tabbed Chatlog","speaker":{"scene":"nw3oxK8E7RZf3QFo","actor":"MIgHay8oOimuWKds","token":"ZghVjpRXZJmJxo05","alias":"Cody Swendrowski"},"whisper":[],"_id":"nVyZAjKNB5jV4pxB"}
+{"flags":{},"type":5,"user":"pw2V8xvRLO8dfuct","timestamp":1614641467756,"content":"15","speaker":{},"whisper":[],"roll":"{\"class\":\"Roll\",\"dice\":[],\"formula\":\"d20\",\"terms\":[{\"class\":\"Die\",\"number\":1,\"faces\":20,\"modifiers\":[],\"options\":{},\"results\":[{\"result\":15,\"active\":true}]}],\"results\":[15],\"total\":15}","sound":"sounds/dice.wav","_id":"o5oVgGaHaISM25fZ"}
 {"flags":{},"type":2,"user":"pw2V8xvRLO8dfuct","timestamp":1614639006804,"content":"Nice! Next up, ViNo - Visual Novel for Foundry. ViNo was the module that finally convinced me to setup a Patreon!","speaker":{"scene":"nw3oxK8E7RZf3QFo","actor":"MIgHay8oOimuWKds","token":"ZghVjpRXZJmJxo05","alias":"Cody Swendrowski"},"whisper":[],"_id":"oWqmloqsMeaMhlCl"}
+{"flags":{},"type":2,"user":"pw2V8xvRLO8dfuct","timestamp":1614643450903,"content":"Nice! Next up, ViNo - Visual Novel for Foundry. ViNo was the module that finally convinced me to setup a Patreon!","speaker":{"scene":"nw3oxK8E7RZf3QFo","actor":"MIgHay8oOimuWKds","token":"ZghVjpRXZJmJxo05","alias":"Cody Swendrowski"},"whisper":[],"_id":"p6zM798UsJOFz9Od"}
+{"flags":{},"type":2,"user":"pw2V8xvRLO8dfuct","timestamp":1614643481954,"content":"ViNo is one of many modules that benefits from the next module in the tour - Tabbed Chatlog","speaker":{"scene":"nw3oxK8E7RZf3QFo","actor":"MIgHay8oOimuWKds","token":"ZghVjpRXZJmJxo05","alias":"Cody Swendrowski"},"whisper":[],"_id":"pqh5fhkewHX2rpW8"}
 {"flags":{},"type":2,"user":"pw2V8xvRLO8dfuct","timestamp":1614639984033,"content":"Nice! Next up, ViNo - Visual Novel for Foundry. ViNo was the module that finally convinced me to setup a Patreon!","speaker":{"scene":"nw3oxK8E7RZf3QFo","actor":"MIgHay8oOimuWKds","token":"ZghVjpRXZJmJxo05","alias":"Cody Swendrowski"},"whisper":[],"_id":"rZh55HqrJg1V2i0e"}
 {"flags":{},"type":5,"user":"pw2V8xvRLO8dfuct","timestamp":1614640816279,"content":"9","speaker":{},"whisper":[],"roll":"{\"class\":\"Roll\",\"dice\":[],\"formula\":\"d20\",\"terms\":[{\"class\":\"Die\",\"number\":1,\"faces\":20,\"modifiers\":[],\"options\":{},\"results\":[{\"result\":9,\"active\":true}]}],\"results\":[9],\"total\":9}","sound":"sounds/dice.wav","_id":"seyjJCtJB1uATwzK"}
-{"flags":{},"type":5,"user":"pw2V8xvRLO8dfuct","timestamp":1614641467756,"content":"15","speaker":{},"whisper":[],"roll":"{\"class\":\"Roll\",\"dice\":[],\"formula\":\"d20\",\"terms\":[{\"class\":\"Die\",\"number\":1,\"faces\":20,\"modifiers\":[],\"options\":{},\"results\":[{\"result\":15,\"active\":true}]}],\"results\":[15],\"total\":15}","sound":"sounds/dice.wav","_id":"o5oVgGaHaISM25fZ"}
-{"flags":{},"type":2,"user":"pw2V8xvRLO8dfuct","timestamp":1614643450903,"content":"Nice! Next up, ViNo - Visual Novel for Foundry. ViNo was the module that finally convinced me to setup a Patreon!","speaker":{"scene":"nw3oxK8E7RZf3QFo","actor":"MIgHay8oOimuWKds","token":"ZghVjpRXZJmJxo05","alias":"Cody Swendrowski"},"whisper":[],"_id":"p6zM798UsJOFz9Od"}
-{"flags":{},"type":2,"user":"pw2V8xvRLO8dfuct","timestamp":1614643459924,"content":"It brings actors - and their often wonderful art - into prime real estate, and features tons of reading speed configuration.","speaker":{"scene":"nw3oxK8E7RZf3QFo","actor":"MIgHay8oOimuWKds","token":"ZghVjpRXZJmJxo05","alias":"Cody Swendrowski"},"whisper":[],"_id":"GWXs61lZZXDi6klu"}
-{"flags":{},"type":2,"user":"pw2V8xvRLO8dfuct","timestamp":1614643469938,"content":"As the module with the longest development schedule, it's my cleanest code (but still, ultimately, night-programming quality). Check it out here: <a class=\"hyperlink\" href=\"https://github.com/cswendrowski/FoundryVTT-ViNo/tree/master/scripts\" target=\"_blank\">https://github.com/cswendrowski/FoundryVTT-ViNo/tree/master/scripts</a>","speaker":{"scene":"nw3oxK8E7RZf3QFo","actor":"MIgHay8oOimuWKds","token":"ZghVjpRXZJmJxo05","alias":"Cody Swendrowski"},"whisper":[],"_id":"OQKtTxe9FP2O0gaL"}
-{"flags":{},"type":2,"user":"pw2V8xvRLO8dfuct","timestamp":1614643481954,"content":"ViNo is one of many modules that benefits from the next module in the tour - Tabbed Chatlog","speaker":{"scene":"nw3oxK8E7RZf3QFo","actor":"MIgHay8oOimuWKds","token":"ZghVjpRXZJmJxo05","alias":"Cody Swendrowski"},"whisper":[],"_id":"pqh5fhkewHX2rpW8"}
-{"flags":{},"type":5,"user":"pw2V8xvRLO8dfuct","timestamp":1614643516919,"content":"8","speaker":{},"whisper":[],"roll":"{\"class\":\"Roll\",\"dice\":[],\"formula\":\"d20\",\"terms\":[{\"class\":\"Die\",\"number\":1,\"faces\":20,\"modifiers\":[],\"options\":{},\"results\":[{\"result\":8,\"active\":true}]}],\"results\":[8],\"total\":8}","sound":"sounds/dice.wav","_id":"PDBBAFN1VNnB7ij0"}
+{"flags":{},"type":5,"user":"pw2V8xvRLO8dfuct","timestamp":1614712783179,"content":"3","speaker":{},"whisper":[],"roll":"{\"class\":\"Roll\",\"dice\":[],\"formula\":\"d20\",\"terms\":[{\"class\":\"Die\",\"number\":1,\"faces\":20,\"modifiers\":[],\"options\":{},\"results\":[{\"result\":3,\"active\":true}]}],\"results\":[3],\"total\":3}","sound":"sounds/dice.wav","_id":"dilhpVtlHwv3fNAk"}
+{"$$deleted":true,"_id":"08ROpdWXHMbymAOy"}
+{"$$deleted":true,"_id":"1bhQNuQuSnfhDiHS"}
+{"$$deleted":true,"_id":"1k3dz6A7ct5G4Pga"}
+{"$$deleted":true,"_id":"28KDAwmoCzASx3UU"}
+{"$$deleted":true,"_id":"3Ln4YM4bwTRiWbB0"}
+{"$$deleted":true,"_id":"73kHADQMi6e9gssw"}
+{"$$deleted":true,"_id":"9YiBMMmavRyZC4wA"}
+{"$$deleted":true,"_id":"BqqrDGjpEQmOKH8z"}
+{"$$deleted":true,"_id":"Cad29ZjsMppQKwf1"}
+{"$$deleted":true,"_id":"D0l2mMPYAdb30NYI"}
+{"$$deleted":true,"_id":"EeibQ01K5Tcb6Yjx"}
+{"$$deleted":true,"_id":"FHQAOSfSEkO8T6Fp"}
+{"$$deleted":true,"_id":"G7k4u3a3Y02ri2yI"}
+{"$$deleted":true,"_id":"GWXs61lZZXDi6klu"}
+{"$$deleted":true,"_id":"H4n9Or6CAypYBRYI"}
+{"$$deleted":true,"_id":"KMUoNC70lD3J8HWx"}
+{"$$deleted":true,"_id":"LyrLW577l6BT5E11"}
+{"$$deleted":true,"_id":"Nxazte1VnuqxVicj"}
+{"$$deleted":true,"_id":"OQKtTxe9FP2O0gaL"}
+{"$$deleted":true,"_id":"PDBBAFN1VNnB7ij0"}
+{"$$deleted":true,"_id":"PmnQ2uC4erlWfybc"}
+{"$$deleted":true,"_id":"W0B70Dk0xgDeLbYC"}
+{"$$deleted":true,"_id":"Y2q56kbb7glE1awH"}
+{"$$deleted":true,"_id":"cRNQI419Z1bZpVcZ"}
+{"$$deleted":true,"_id":"cSh7wH7SCipEosK5"}
+{"$$deleted":true,"_id":"dilhpVtlHwv3fNAk"}
+{"$$deleted":true,"_id":"eG82M89d1w7L9yNR"}
+{"$$deleted":true,"_id":"eGLVcAVC84qQNXbe"}
+{"$$deleted":true,"_id":"hcjUwYRVnDtapqE2"}
+{"$$deleted":true,"_id":"hlXmh1e94ATkLLBY"}
+{"$$deleted":true,"_id":"i0nm0DzsgajbUv4g"}
+{"$$deleted":true,"_id":"it0Cu1Z9qAc81qnn"}
+{"$$deleted":true,"_id":"k3jQhzNh8rPPBWHm"}
+{"$$deleted":true,"_id":"kMw7anAkfkIMmlmo"}
+{"$$deleted":true,"_id":"n3dDbScIGgRAa5tv"}
+{"$$deleted":true,"_id":"nVyZAjKNB5jV4pxB"}
+{"$$deleted":true,"_id":"o5oVgGaHaISM25fZ"}
+{"$$deleted":true,"_id":"oWqmloqsMeaMhlCl"}
+{"$$deleted":true,"_id":"p6zM798UsJOFz9Od"}
+{"$$deleted":true,"_id":"pqh5fhkewHX2rpW8"}
+{"$$deleted":true,"_id":"rZh55HqrJg1V2i0e"}
+{"$$deleted":true,"_id":"seyjJCtJB1uATwzK"}
