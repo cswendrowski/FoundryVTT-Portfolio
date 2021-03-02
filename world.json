@@ -18,6 +18,16 @@
       "name": "vueport",
       "type": "module",
       "manifest": "https://raw.githubusercontent.com/ForgeVTT/fvtt-module-vueport/master/module.json"
+    },
+    {
+      "name": "vueport",
+      "type": "module",
+      "manifest": "https://raw.githubusercontent.com/ForgeVTT/fvtt-module-vueport/master/module.json"
+    },
+    {
+      "name": "hey-wait",
+      "type": "module",
+      "manifest": "https://github.com/1000nettles/hey-wait/releases/latest/download/module.json"
     }
   ],
   "packs": [],
