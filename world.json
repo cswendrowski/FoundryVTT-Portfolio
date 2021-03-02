@@ -1,5 +1,5 @@
 {
-  "name": "cswendrowski-portfolio",
+  "name": "cswendrowski",
   "title": "cswendrowski Portfolio",
   "description": "<p>An interactive exploration of the things Cody Swendrowski has developed for Foundry Virtual Tabletop</p>",
   "version": "1.0.0",
@@ -20,14 +20,74 @@
       "manifest": "https://raw.githubusercontent.com/ForgeVTT/fvtt-module-vueport/master/module.json"
     },
     {
-      "name": "vueport",
+      "name": "1000-fish",
       "type": "module",
-      "manifest": "https://raw.githubusercontent.com/ForgeVTT/fvtt-module-vueport/master/module.json"
+      "manifest": "https://github.com/cswendrowski/FoundryVTT-1000-Fish/releases/download/latest/module.json"
     },
     {
-      "name": "hey-wait",
+      "name": "custom-css",
       "type": "module",
-      "manifest": "https://github.com/1000nettles/hey-wait/releases/latest/download/module.json"
+      "manifest": "https://github.com/cswendrowski/FoundryVTT-Custom-CSS/releases/latest/download/module.json"
+    },
+    {
+      "name": "_chatcommands",
+      "type": "module",
+      "manifest": "https://github.com/League-of-Foundry-Developers/Chat-Commands-Lib/releases/download/1.2.0/module.json"
+    },
+    {
+      "name": "raise-my-hand",
+      "type": "module",
+      "manifest": "https://github.com/cswendrowski/FoundryVTT-Raise-My-Hand/releases/download/1.0.0/module.json"
+    },
+    {
+      "name": "afk",
+      "type": "module",
+      "manifest": "https://github.com/cswendrowski/FoundryVTT-AFK/releases/download/1.0.0/module.json"
+    },
+    {
+      "name": "dragupload",
+      "type": "module",
+      "manifest": "https://github.com/cswendrowski/FoundryVTT-Drag-Upload/releases/download/latest/module.json"
+    },
+    {
+      "name": "npc-chatter",
+      "type": "module",
+      "manifest": "https://raw.githubusercontent.com/cswendrowski/FoundryVtt-Npc-Chatter/master/module.json"
+    },
+    {
+      "name": "tabbed-chatlog",
+      "type": "module",
+      "manifest": "https://github.com/cswendrowski/FoundryVTT-tabbed-chatlog/releases/download/latest/module.json"
+    },
+    {
+      "name": "discord-rich-presence",
+      "type": "module",
+      "manifest": "https://raw.githubusercontent.com/cswendrowski/FoundryVTT-Discord-Rich-Presence/master/module.json"
+    },
+    {
+      "name": "bug-reporter",
+      "type": "module",
+      "manifest": "https://github.com/League-of-Foundry-Developers/bug-reporter/releases/download/latest/manifest.json"
+    },
+    {
+      "name": "tinymce-foundryfilepicker",
+      "type": "module",
+      "manifest": "https://github.com/cswendrowski/FoundryVTT-TinyMCE-CustomFilePicker/releases/download/latest/module.json"
+    },
+    {
+      "name": "vue-encounter-builder",
+      "type": "module",
+      "manifest": "https://github.com/cswendrowski/FoundryVTT-Encounter-Builder/releases/download/1.0.0/module.json"
+    },
+    {
+      "name": "streaming-mode",
+      "type": "module",
+      "manifest": "https://github.com/cswendrowski/FoundryVTT-Streaming-Mode/releases/download/latest/module.json"
+    },
+    {
+      "name": "vino",
+      "type": "module",
+      "manifest": "https://github.com/cswendrowski/FoundryVTT-ViNo-Public/releases/download/0.2.4/module.json"
     }
   ],
   "packs": [],
